@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5670bd8d.css",
+    "main.js": "/static/js/main.5317f9c3.js",
+    "static/media/home ok ok.png": "/static/media/home ok ok.0902209f6bf81493271f.png",
+    "static/media/logo.png": "/static/media/logo.133305534237aa236a77.png",
+    "index.html": "/index.html",
+    "main.5670bd8d.css.map": "/static/css/main.5670bd8d.css.map",
+    "main.5317f9c3.js.map": "/static/js/main.5317f9c3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5670bd8d.css",
+    "static/js/main.5317f9c3.js"
+  ]
+}
